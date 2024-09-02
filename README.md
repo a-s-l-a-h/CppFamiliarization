@@ -1,1 +1,3 @@
 # CppFamiliarization
+This repository contains basic cpp codes . 
+It's help to familiarizing the basic syntax etc....
